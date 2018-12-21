@@ -1,0 +1,22 @@
+<html>
+<head>
+<style>
+#id1{
+float:left;
+padding-left:20px;
+}
+#id2{
+float:right;
+padding-right:20px;
+}
+</style>
+</head>
+<body>
+<section id="id1">
+<img src="C:\Users\Dell\Desktop\oyo.jpg">
+</section>
+<section id="id2">
+<img src="C:\Users\Dell\Desktop\stumagz.jpg">
+</section>
+</body>
+</html>
